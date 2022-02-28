@@ -5,6 +5,10 @@ let casa = new Sprite(112, 226, 185, 122, 'rgba(255, 255, 255, 0)');
 sprite.push(casa);
 blocks.push(casa);
 
+let balde = new Sprite(190, 418, 31, 30, 'rgba(255, 255, 255, 0)');
+sprite.push(balde);
+blocks.push(balde);
+
 let retBlack = new Sprite(714, 400, 100, 200, 'black');
 sprite.push(retBlack);
 blocks.push(retBlack);
